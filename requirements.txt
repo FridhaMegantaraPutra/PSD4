@@ -1,4 +1,6 @@
 pip==23.3.1
+portaudio
+pyaudio
 wave
 pyaudio
 streamlit
